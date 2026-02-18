@@ -55,9 +55,7 @@ I tried to translate everything, but bruh, I may have missed something.
 
 ### Will Hoshi have themes and plugins?
 
-That was one of the first things I wanted to do, so I just have to upgrade the code. But since I wanted to finish the app first, it will take a long time.
-A basic page to change colors and some UI size is already implemented but not used (it's too ugly).
-So yeah, Hoshi will have that when it actually works.
+Hoshi won't have a theme or plugin, but Hoshika will, though that's for later :3
 
 ---
 
@@ -69,9 +67,7 @@ Maybe, but that would only be luck. Hoshi will only support the latest Spacebar 
 
 ### Does Hoshi work with the official Discord?
 
-I haven't tried it.
-Wait I should!
-Uh why am I writing to myself like that.
+no, doin't try, no no no
 
 ---
 
@@ -79,29 +75,24 @@ Uh why am I writing to myself like that.
 
 It represents nobody. It's just there because I don't know how to make a proper icon.
 It may be removed in future versions.
-Also every time I open Ibis Paint, I see some lines that aren't right, so yeah, I will change it EVERY BUILD.
+I lost the ibispaint file.
 
 ---
 
 ### Hoshi doesn't work with my server!!!
 
-Did you properly create your `.well-known`?
-Hoshi will try to find your API link, but bro, don't make it harder than it already is.
+Hoshi is dumb but it has been corrected, please check your configuration carefully.
 
 ---
 
-### Does anyone really use this client when Fermi exists?
-
-I don't know, and I don't really care. That's why I don't create a guild or something.
-My friends already use it and tell me what's bad.
-I will read and try to fix issues if you make one.
+Remember when I said I wouldn't make a guild? Well, actually I did, so I could have all the bugs in one place.
+https://fermi.chat/invite/10HJSc?instance=https%3A%2F%2Fspacebar.chat
 
 ---
 
 ### When will an update be released?
 
-When it works.
-The web version will be updated faster than the builds in the release.
+when I feel like it
 
 ---
 
